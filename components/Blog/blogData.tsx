@@ -5,8 +5,8 @@ const blogData: Event[] = [
     id: 1,
     title: "Event 1",
     paragraph:
-      "On September 29, 2023, the IEEE HKN Nu Eta Chapter was inaugurated at Sri Sairam Engineering College in Chennai, India. The ceremony began with a prayer song and the lighting of the Kuthuvilakku. Dr. Sai Prakash Leo Muthu, Chairman & CEO of Sairam Institutions, gave the welcome address, followed by felicitation of the Chief Guests. Mr. Sampathkumar Veeraraghavan, Global President of IEEE Eta Kappa Nu and 2023 IEEE HTB Partnership Chair, delivered a keynote address on the role of IEEE HKN in shaping the future of technology. Dr. Prokumaran, Chairman IEEE Madras Section and Principal, Sri Sairam Engineering College, gave a special address on the importance of establishing HKN chapters. The highlight of the ceremony was the induction of the IEEE HKN Nu Eta Founding Members. A fireside chat with IEEE Global Leaders followed, with a discussion on the role of IEEE in advancing technology for the betterment of society, the challenges and opportunities in the field of engineering, and the importance of global collaboration in technological advancement.",
-    image: "/images/events/02.jpg",
+      "On September 29, 2023, the IEEE HKN Nu Eta Chapter was inaugurated at Sri Sairam Engineering College in Chennai, India. The ceremony began with a prayer song and the lighting of the Kuthuvilakku. Dr. Sai Prakash Leo Muthu, Chairman & CEO of Sairam Institutions, gave the welcome address, followed by felicitation of the Chief Guests. Mr. Sampathkumar Veeraraghavan, Global President of IEEE Eta Kappa Nu and 2023 IEEE HTB Partnership Chair, delivered a keynote address on the role of IEEE HKN in shaping the future of technology. Dr. Prokumaran, Chairman IEEE Madras Section and Principal, Sri Sairam Engineering College, gave a special address on the importance of establishing HKN chapters.  ",
+    image: "/images/events/events.jpg",
     venue: {
       name: "Sigma Stadium",
       image: "/images/events/location-icon.jpg",

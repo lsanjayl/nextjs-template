@@ -56,13 +56,13 @@ const NuEtaSectionOne = () => {
                 data-wow-delay=".2s"
               >
                 <Image
-                  src="/images/about/group.svg"
+                  src="/images/about/2.png"
                   alt="about-image"
                   fill
                   className="drop-shadow-three mx-auto max-w-full dark:hidden dark:drop-shadow-none lg:mr-0"
                 />
                 <Image
-                  src="/images/about/group.svg"
+                  src="/images/about/2.png"
                   alt="about-image"
                   fill
                   className="drop-shadow-three mx-auto hidden max-w-full dark:block dark:drop-shadow-none lg:mr-0"
@@ -108,7 +108,7 @@ const NuEtaSectionOne = () => {
               className="wow fadeInUp mx-auto max-w-[800px] text-center"
               data-wow-delay=".2s"
           >
-          <ul className="text-black list-disc dark:text-body-color-dark mb-12 text-base !leading-relaxed sm:text-lg md:text-xl space-y-6">
+          <ul className="text-black list-disc  mb-12 text-base !leading-relaxed sm:text-lg md:text-xl space-y-6">
             <li>
               Foster and support innovation in technology to build solutions to societal problems through student fraternity.
             </li>

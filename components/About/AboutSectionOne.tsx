@@ -55,13 +55,13 @@ const AboutSectionOne = () => {
                 data-wow-delay=".2s"
               >
                 <Image
-                  src="/images/about/group.svg"
+                  src="/images/about/WhatsApp-Image-2021-05-24-at-7.48 1.png"
                   alt="about-image"
                   fill
                   className="drop-shadow-three mx-auto max-w-full dark:hidden dark:drop-shadow-none lg:mr-0"
                 />
                 <Image
-                  src="/images/about/group.svg"
+                  src="/images/about/WhatsApp-Image-2021-05-24-at-7.48 1.png"
                   alt="about-image"
                   fill
                   className="drop-shadow-three mx-auto hidden max-w-full dark:block dark:drop-shadow-none lg:mr-0"
